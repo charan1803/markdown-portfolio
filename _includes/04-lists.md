@@ -1,3 +1,3 @@
-*games
-*tv
-*tarvelling
+* games
+* tv
+* tarvelling
